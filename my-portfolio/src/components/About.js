@@ -11,7 +11,9 @@ export default function About()
                     </h1>
 
                     <p className="mb-8 leading-relaxed">
-                        info Text Here
+                        I currently am a senior at the University of Connecticut, with a Computer Science major
+                        and a concentration on Cybersecurity. I also have a minor in Mathematics, and am on the club ultimate team
+                        as well as work as a clerk for University Mail Services.
                     </p>
                     <div className="flex justify-center">
                         <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
