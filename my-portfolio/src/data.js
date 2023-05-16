@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A C++ VI Style Text Editor",
     image: "./editor.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/alfredng01/textEditor",
   },
   {
     title: "Portfolio Website",
