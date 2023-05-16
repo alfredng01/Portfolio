@@ -60,7 +60,7 @@ export default function Contact()
                 name="contact"
                 className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
                     <p className="leading-relaxed mb-5">
-                        Text
+                        Contact Me
                     </p>
                     <div className="relative mb-4">
                         <label htmlFor="name" className="leading-7 text-sm text-gray-400">Name</label>
@@ -73,7 +73,7 @@ export default function Contact()
                         />
                     </div>
                     <div className="relative mb-4">
-                        <label htmlFor="email" className="leading-7 text-sm text-gray-400"Email></label>
+                        <label htmlFor="email" className="leading-7 text-sm text-gray-400"Email>Email</label>
                         <input
                         type="email"
                         id="email"
