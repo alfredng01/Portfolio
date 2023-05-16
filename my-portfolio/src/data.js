@@ -39,6 +39,12 @@ export const skills = [
 ];
 
 export const socials = [
-  "github: ",
-  "Linkedin: ",
+  {
+    title: "GitHub",
+    url: "https://github.com/alfredng01"
+  },
+  {
+    title: "LinkedIn",
+    url: "https://www.linkedin.com/in/kaichenng/",
+  },
 ];
