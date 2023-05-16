@@ -37,3 +37,8 @@ export const skills = [
   "My-SQL",
   "Git"
 ];
+
+export const socials = [
+  "github: ",
+  "Linkedin: ",
+];
